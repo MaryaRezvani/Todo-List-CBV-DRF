@@ -28,7 +28,7 @@
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-git clone https://github.com/MaryaRezvani/Django-CBV-DRF-ViewSet-TodoApp
+git clone git@github.com:MaryaRezvani/Todo-List-CBV-DRF.git
 ```
 
 ### Getting ready
